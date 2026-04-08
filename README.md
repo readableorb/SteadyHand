@@ -15,6 +15,8 @@ Switch
 
 Battery Slot
 
+Adjustable Buck Boost Converter
+
 ## BOM:
 This is what you need to make this hackpad.
 
